@@ -4,7 +4,7 @@ A command-line unit conversion application built with Python.
 
 I created this project to practise Python project structure, packages,
 modules, virtual environments, dependency management, Git, and clean
-command-line interfaces. Marks day 1 of my 50-day AI/ML learning journey!
+command-line interfaces. Marks day 1 of my 60-day AI/ML learning journey!
 
 ## Features
 
@@ -65,7 +65,7 @@ Excluding local files using .gitignore
 Writing meaningful Git commits
 Creating a multi-file Python application
 
-##Technologies
+## Technologies
 
 Python
 Rich
