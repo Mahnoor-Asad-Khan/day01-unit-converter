@@ -37,7 +37,7 @@ day01-unit-converter/
 ## Installation
 
 clone the repository:
-    git clone YOUR_REPOSITORY_URL
+    git clone [UNIT_CONVERTER_REPOSITORY_URL](https://github.com/Mahnoor-Asad-Khan/day01-unit-converter)
     cd day01-unit-converter
 
 create a virtual environment:
